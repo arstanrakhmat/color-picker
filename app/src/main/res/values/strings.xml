@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="color">color</string>
+
+    <string-array name="colorsss">
+        <item>White</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Brown</item>
+        <item>Pink</item>
+    </string-array>
+</resources>
